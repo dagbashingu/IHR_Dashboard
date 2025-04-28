@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1nsPx024h1JZfj1GMjaXQuJozxC0OdIcL
 """
 
-pip install streamlit
+#pip install streamlit
 
 # ihr_dashboard_final.py
 
