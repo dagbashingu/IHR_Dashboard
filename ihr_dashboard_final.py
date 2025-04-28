@@ -8,6 +8,7 @@ Original file is located at
 """
 
 #pip install streamlit
+!pip install plotly
 
 # ihr_dashboard_final.py
 
